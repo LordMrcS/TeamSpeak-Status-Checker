@@ -1,6 +1,6 @@
 <?PHP
 
-$ts_ip = "speedy.a40gaming.de"; // Server IP / Hostname
+$ts_ip = "Add IP of TS-Server here"; // Server IP / Hostname
 
 $ts_port = "10011"; // Port
 
