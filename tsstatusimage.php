@@ -13,3 +13,5 @@ else {	//ELSE: Teamspeak-Server nicht erreichbar
 @stream_set_timeout($socket, 4); //Timeout für Netzwerkverbindung festlegen
 
 readfile($image);	// Bild einlesen und in Outputpuffer schreiben
+
+?>
