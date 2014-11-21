@@ -1,6 +1,6 @@
 <?PHP
 
-$ts_ip = "Add IP of TS-Server here"; // Server IP / Hostname
+$ts_ip = "Add IP of TS-Server here"; // Server IP
 
 $ts_port = "10011"; // Port
 
